@@ -1,2 +1,2 @@
-# 16bitCPU
-16bitCPU
+# AI_Intro
+Introduction to Artificial Intelligence
